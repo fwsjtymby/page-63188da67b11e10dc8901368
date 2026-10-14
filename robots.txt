@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7480a86ed6.eventspot.cn/sitemap.xml

@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8083bc7e0c14a3774a31c1cb",
+  "owner": "fwsjtymby",
+  "repo": "page-63188da67b11e10dc8901368",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "63188da67b11e10dc8901368",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "79fd4af0cccd1888f9ed4e3549e8817677ca642038f9c86586a77b7891c760d0",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单为您提供专业VPN加速器订阅服务，包括基础版、旗舰版和团队版多种套餐。享受高速稳定节点，解锁流媒体内容。立即访问官网下载客户端。",
+          "AI_DESCRIPTION": "机场榜单为您提供专业VPN加速器订阅服务，包括基础版、旗舰版和团队版多种套餐。享受高速稳定节点，解锁流媒体内容。立即访问官网下载客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;margin:0;padding:0;background:#f5f5dc;color:#333;line-height:1.6}.header{background:#228B22;color:#fff;padding:1rem;position:sticky;top:0}.nav{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}.nav a{color:#fff;text-decoration:none;margin:0 1rem}.main{max-width:1200px;margin:0 auto;padding:2rem}h1{color:#228B22;font-size:2.5rem;text-align:center;margin-bottom:1rem}h2{color:#006400;font-size:1.8rem;margin-top:2rem}p{font-size:1.1rem;margin-bottom:1rem}.btn{background:#228B22;color:#fff;padding:0.8rem 1.5rem;border:none;border-radius:4px;cursor:pointer;font-size:1rem}.btn:hover{background:#006400}.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem;margin:2rem 0}.plan{background:#fff;border:3px solid #228B22;border-radius:8px;padding:1.5rem;text-align:center}.plan.featured{border-color:#006400;transform:scale(1.05);box-shadow:0 10px 20px rgba(0,100,0,.2)}.plan h3{font-size:1.5rem;margin-bottom:1rem}.plan .price{font-size:1.8rem;color:#228B22;font-weight:bold}.plan ul{list-style:none;padding:0;text-align:left}.plan li{padding:0.5rem 0;font-size:1rem}.footer{background:#228B22;color:#fff;text-align:center;padding:1rem;margin-top:3rem}@media(max-width:768px){.plans{grid-template-columns:1fr}h1{font-size:2rem}}</style><header class=\"header\"><nav class=\"nav\"><a href=\"#\">机场榜单</a><a href=\"#plans\">订阅方案</a><a href=\"#config\">配置流程</a><a href=\"#faq\">常见问题</a></nav></header><main class=\"main\"><section><h1>机场榜单</h1><p>专业VPN加速器品牌，专注梯子网络加速与客户端下载</p><a href=\"#plans\" class=\"btn\">立即查看套餐</a></section><section id=\"intro\"><h2>品牌简介</h2><p>机场榜单是专注于VPN梯子网络加速的品牌，致力于为全球用户提供稳定高速的网络加速解决方案。通过海量节点池和智能路由技术，帮助用户畅享无缓冲的在线体验。无论个人日常使用还是团队企业需求，都能找到匹配的套餐方案。</p></section><section id=\"scenarios\"><h2>使用场景</h2><ul><li>解锁Netflix、YouTube等流媒体平台</li><li>在线游戏加速与低延迟连接</li><li>远程办公与企业级网络优化</li><li>多设备家庭共享加速</li><li>跨境访问与隐私保护</li></ul></section><section id=\"plans\"><h2>订阅方案</h2><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a href=\"#config\" class=\"btn\">选择基础版</a></div><div class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a href=\"#config\" class=\"btn\">选择旗舰版</a></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a href=\"#config\" class=\"btn\">选择团队版</a></div></div></section><section id=\"config\"><h2>配置流程</h2><ol><li>登录官网，选择适合的套餐并完成支付</li><li>在个人中心获取专属订阅链接</li><li>访问官网下载对应客户端（支持 Windows、macOS、Android、iOS）</li><li>在客户端中选择订阅设置，粘贴机场榜单提供的链接并保存</li><li>选择可用节点连接，即可享受加速体验</li></ol></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何选择适合我的套餐？</summary><p>根据使用需求和设备数量选择。基础版适合个人单人使用，旗舰版适合家庭多人，团队版适合企业大团队。旗舰版支持5台设备，团队版20台，基础版3台。</p></details><details><summary>客户端如何下载？</summary><p>在官网登录账号后，进入下载中心即可下载Windows、macOS、Android、iOS等多个平台的客户端。官方下载地址在个人中心，无需额外注册。</p></details><details><summary>支持哪些设备和平台？</summary><p>支持Windows、macOS、Linux、Android、iOS及路由器等多种设备。基础版支持3台同时在线，旗舰版5台，团队版20台，适用于家庭、企业多种场景。</p></details><details><summary>如何导入订阅链接？</summary><p>在客户端中选择订阅设置，粘贴机场榜单提供的订阅URL链接，然后保存即可开始连接节点。支持一键导入，无需手动配置服务器地址。</p></details><details><summary>节点稳定性如何保证？</summary><p>我们拥有海量节点池，并采用智能路由和负载均衡技术，确保99.9% uptime。旗舰版提供IPLC专线，游戏加速优化，稳定性远超普通线路。</p></details><details><summary>年付有何优势？</summary><p>按年付仅需对应套餐的1/12，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，大幅节省成本，且享有相同服务权益。</p></details><details><summary>遇到问题如何获得支持？</summary><p>旗舰版及以上套餐提供7x24优先工单支持，团队版拥有专属客户经理服务。基础版也提供在线工单和常见问题解答。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><p>机场榜单 | 官网下载 | 订阅服务 | 友情链接 | 站点地图</p></footer>",
+          "hash": "869eda6379ca160df5887393349ca9b9f19d66f4f6fcb5a51b68d009f1160b3a",
+          "seo": {
+            "title": "机场榜单 - VPN加速器订阅 | 客户端下载 | 官网",
+            "keywords": "机场榜单, VPN加速器, 梯子网络, 加速器, 客户端下载, 机场订阅",
+            "description": "机场榜单为您提供专业VPN加速器订阅服务，包括基础版、旗舰版和团队版多种套餐。享受高速稳定节点，解锁流媒体内容。立即访问官网下载客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eventspot.cn",
+    "host": "p-7480a86ed6.eventspot.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ec6b2348762ea7b991c9680fb58eb210ba77f07e26a652d58d3761a152c2d9f4",
+    "sitemap.xml": "c98baff320501b1557fb11899a1b02f1fdeb777497a9c905ed1edabe0921aff3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "97ecb9184b08b0a79b4d8f21fea0f27a653fa7e77858d19dc9ac5610e737138f",
+    "robots.txt": "0c7c3821145e184f6d740433036d6d2ca0c2fdaecd85438304ac4322e3148e37",
+    "121754b559329791c2edd93e77cf7589.txt": "3dce15e633d78e0552586f4693a816971ac6863549806006f0e6af91cdb5451b"
+  },
+  "revision": "c6745bf13417689dd7eac23434bb508ec101a29bcc315108a443ef4f09788a30"
+}
